@@ -106,12 +106,6 @@ Innovative Staff Software Engineer with 14+ years of experience architecting and
 
 I'm passionate about solving complex technical challenges and building systems that make a difference. Whether you're interested in discussing technology trends, potential collaborations, or just want to connect, feel free to reach out!
 
-<div align="center">
-  <a href="mailto:james.cole.dev1@gmail.com"><img src="https://img.shields.io/badge/Email-james.cole.dev1@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://linkedin.com/in/james-cole-56"><img src="https://img.shields.io/badge/LinkedIn-james--cole--56-blue?style=flat-square&logo=linkedin"></a>
-  <a href="tel:+13232477231"><img src="https://img.shields.io/badge/Phone-(323)_247--7231-blue?style=flat-square&logo=phone"></a>
-</div>
-
 ---
 
 <div align="center">
