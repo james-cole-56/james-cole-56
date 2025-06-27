@@ -87,13 +87,6 @@ Innovative Staff Software Engineer with 14+ years of experience architecting and
 - Designed observability pipelines using Datadog and ELK stack for monitoring patient workflow services
 - Optimized database queries with advanced indexing and partitioning strategies to enhance data retrieval speeds
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=james-cole-56&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=james-cole-56&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ## 🔥 Current Projects
 
 - **Healthcare Coordination Platform**: Developing a serverless architecture for real-time patient care coordination
